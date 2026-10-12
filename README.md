@@ -1,7 +1,6 @@
-# IBM-Continuous-Integration-and-Continuous-Delivery
+# ci-cd-final-project
 
 ## Tasks
-
 
 ## License
 
